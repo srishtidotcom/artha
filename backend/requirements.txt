@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph          # or crewai — pick one
+openai             # or anthropic
+reportlab
+python-multipart
+httpx
+requests
+python-dotenv

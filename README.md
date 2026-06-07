@@ -98,8 +98,8 @@ artha-loan-agent/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/artha-loan-agent.git
-cd artha-loan-agent
+git clone https://github.com/your-username/artha.git
+cd artha
 ```
 
 ### 2. Create & activate a virtual environment
@@ -150,9 +150,9 @@ OFFER_MART_URL=http://localhost:8003
 
 ### Phase 1 — Project Setup & Data
 
-- [ ] **Step 1** — Initialize repo, folder structure, virtual environment, install dependencies
-- [ ] **Step 2** — Create `customers.json` with 10+ dummy customers (name, age, city, income, credit score, pre-approved limit, KYC details)
-- [ ] **Step 3** — Build three FastAPI mock APIs:
+- [x] **Step 1** — Initialize repo, folder structure, virtual environment, install dependencies
+- [x] **Step 2** — Create `customers.json` with 10+ dummy customers (name, age, city, income, credit score, pre-approved limit, KYC details)
+- [x] **Step 3** — Build three FastAPI mock APIs:
   - `GET /customer/{id}` → KYC data (port 8001)
   - `GET /credit-score/{id}` → score out of 900 (port 8002)
   - `GET /offers/{id}` → pre-approved loan limit (port 8003)
