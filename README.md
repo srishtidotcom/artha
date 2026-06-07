@@ -6,12 +6,10 @@ Artha is an end-to-end **Agentic AI platform** built for a large-scale NBFC that
 
 ---
 
-## 👩‍💻 Team
 
 | Name | Role |
 |------|------|
-| Siya | Co-builder |
-| Srishti | Co-builder |
+| Srishti | Builder |
 
 ---
 
